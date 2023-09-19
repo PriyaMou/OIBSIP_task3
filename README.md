@@ -45,8 +45,7 @@ The Temperature Converter was developed using the following technologies:
 - **HTML**: The structure and layout of the web application.
 - **CSS**: Styling and design for an appealing user interface.
 - **JavaScript**: For real-time temperature conversion and interactivity.
-- **GitHub**: For version control and hosting the project.
-- **GitHub Pages**: To deploy and make the application accessible online.
+- **GitHub**: For uploading the code.
 
 ## Usage
 
